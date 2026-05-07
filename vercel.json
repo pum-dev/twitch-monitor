@@ -1,0 +1,18 @@
+    {
+         "builds":[
+            {
+                "src":"phase3/app.py"
+                "use":"@verce/python"
+            }
+        ],
+        "routes":[
+        {
+            "src":"/(.*)"
+            "dest":"phase3/app.py"
+        }     
+        ]
+
+
+    }
+       
+
