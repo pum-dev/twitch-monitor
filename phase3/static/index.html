@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitch Monitor Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📡 Twitch Monitor Dashboard</h1>
+            <div class="status-bar">
+                <span id="status-text">Cargando...</span>
+            </div>
+        </header>
+
+        <main>
+            <section class="add-channel">
+                <h2>Agregar Canal</h2>
+                <div class="input-group">
+                    <input type="text" id="channel-input" placeholder="Nombre del canal (sin twitch.tv/)" />
+                    <button onclick="addChannel()">+ Agregar</button>
+                </div>
+            </section>
+
+            <section class="channels">
+                <h2>Canales Monitoreados</h2>
+                <table id="channels-table">
+                    <thead>
+                        <tr>
+                            <th>Canal</th>
+                            <th>Estado</th>
+                            <th>Bitrate (kbps)</th>
+                            <th>FPS</th>
+                            <th>A/V Sync (ms)</th>
+                            <th>Última actualización</th>
+                            <th>Acción</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-body">
+                        <tr><td colspan="7">Cargando...</td></tr>
+                    </tbody>
+                </table>
+            </section>
+
+            <section class="events">
+                <h2>Últimos Eventos</h2>
+                <div id="events-container" class="events-list">
+                    <p>Cargando eventos...</p>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+# Lista de canales para monitorizar
+# Puedes editar estos nombres o usar la variable TWITCH_CHANNELS en .env
+# ejemplo: canal1,canal2,canal3
+streamer1
+streamer2
+streamer3

@@ -1,0 +1,7 @@
+aiohttp
+python-dotenv
+streamlink
+aiohttp
+python-dotenv
+streamlink
+flask

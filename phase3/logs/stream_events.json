@@ -1,0 +1,19 @@
+{"timestamp": "2026-05-06T16:04:53.340813", "channel": "kumamonster", "type": "frame_loss_detected", "severity": "critical", "message": "P\u00e9rdida de frames: 100.0%"}
+{"timestamp": "2026-05-06T16:05:01.591717", "channel": "hitch", "type": "frame_loss_detected", "severity": "critical", "message": "P\u00e9rdida de frames: 100.0%"}
+{"timestamp": "2026-05-06T20:39:05.781742", "channel": "kumamonster", "type": "stream_offline", "severity": "critical", "message": "Stream ca\u00eddo"}
+{"timestamp": "2026-05-07T00:03:05.229811", "channel": "hitch", "type": "frame_loss_detected", "severity": "critical", "message": "P\u00e9rdida de frames: 100.0%"}
+{"timestamp": "2026-05-07T00:03:10.236044", "channel": "hitch", "type": "stream_offline", "severity": "critical", "message": "Stream ca\u00eddo"}
+{"timestamp": "2026-05-07T08:53:01.761753", "channel": "hitch", "type": "quality_degraded", "severity": "warning", "message": "Calidad baja: 0 kbps @ 0 fps"}
+{"timestamp": "2026-05-07T10:38:15.340695", "channel": "hitch", "type": "quality_degraded", "severity": "warning", "message": "Calidad baja: 0 kbps @ 0 fps"}
+{"timestamp": "2026-05-07T10:43:02.277170", "channel": "hitch", "type": "frame_loss_detected", "severity": "critical", "message": "P\u00e9rdida de frames: 100.0%"}
+{"timestamp": "2026-05-07T12:53:28.485852", "channel": "kumamonster", "type": "frame_loss_detected", "severity": "critical", "message": "P\u00e9rdida de frames: 100.0%"}
+{"timestamp": "2026-05-07T12:53:34.033696", "channel": "hitch", "type": "frame_loss_detected", "severity": "critical", "message": "P\u00e9rdida de frames: 100.0%"}
+{"timestamp": "2026-05-07T12:56:00.551512", "channel": "kumamonster", "type": "quality_degraded", "severity": "warning", "message": "Calidad baja: 0 kbps @ 0 fps"}
+{"timestamp": "2026-05-07T12:56:02.607179", "channel": "hitch", "type": "frame_loss_detected", "severity": "critical", "message": "P\u00e9rdida de frames: 100.0%"}
+{"timestamp": "2026-05-07T12:58:49.361251", "channel": "kumamonster", "type": "quality_degraded", "severity": "warning", "message": "Calidad baja: 0 kbps @ 0 fps"}
+{"timestamp": "2026-05-07T12:58:51.755259", "channel": "hitch", "type": "frame_loss_detected", "severity": "critical", "message": "P\u00e9rdida de frames: 100.0%"}
+{"timestamp": "2026-05-07T13:04:17.770328", "channel": "kumamonster", "type": "frame_loss_detected", "severity": "critical", "message": "P\u00e9rdida de frames: 100.0%"}
+{"timestamp": "2026-05-07T13:04:22.996397", "channel": "hitch", "type": "frame_loss_detected", "severity": "critical", "message": "P\u00e9rdida de frames: 100.0%"}
+{"timestamp": "2026-05-07T13:09:30.706915", "channel": "gerardromero", "type": "quality_degraded", "severity": "warning", "message": "Calidad baja: 0 kbps @ 0 fps"}
+{"timestamp": "2026-05-07T13:09:58.600917", "channel": "kumamonster", "type": "quality_degraded", "severity": "warning", "message": "Calidad baja: 0 kbps @ 0 fps"}
+{"timestamp": "2026-05-07T13:10:00.991865", "channel": "hitch", "type": "frame_loss_detected", "severity": "critical", "message": "P\u00e9rdida de frames: 100.0%"}
