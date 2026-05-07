@@ -2,7 +2,7 @@
          "builds":[
             {
                 "src":"phase3/app.py"
-                "use":"@verce/python"
+                "use":"@vercel/python"
             }
         ],
         "routes":[
